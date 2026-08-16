@@ -1,4 +1,4 @@
-# XML + XSL Transform > > HTML, in Visual Studio 2017
+# XML + XSL Transform > > HTML, in Visual Studio 2019
 
 <table>
 	<tr><td align=center><img src=img/xml.png>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=img/xsl.png></td></tr>
